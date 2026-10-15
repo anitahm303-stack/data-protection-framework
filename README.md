@@ -1,3 +1,5 @@
+A Group Policy Object (GPO) is a feature within Microsoft windows active directory (AD) that allows system administrators to centrally manage and enforce security configurations, system settings, user environments and access permissions across a network of domain joined devices and users. Instead of manually configuring security settings on individual systems, a GPO enables policy enforcement at scale across an entire organizational infrastructure from a centralized Domain Controller
+
 #Setting Group Policy Object (GPO) in active directory .
      This section outlines the step-by-step procedures for creating,configuring, linking and verifying Group Policy Objects (GPO) a windows server directory environment.
 ## Prerequisites
